@@ -1,0 +1,6 @@
+{
+  "name": "Matthew's Projects",
+  "tagline": "My open-source projects",
+  "body": "### Active Projects\r\n- [expr-eval](https://github.com/silentmatt/expr-eval) - Mathematical expression evaluator for browsers and Node.\r\n- [expr-eval-cli](https://github.com/silentmatt/expr-eval-cli) - Use expr-eval from the command line.\r\n- [javascript-biginteger](https://github.com/silentmatt/javascript-biginteger) - Arbitrarily-sized integers for JS.\r\n\r\n### Other projects\r\n- [DSS](https://github.com/silentmatt/dss) - Dry Style Sheets. Think Less/Sass, but written in Java.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
