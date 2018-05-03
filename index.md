@@ -4,4 +4,4 @@
 - [javascript-biginteger](https://github.com/silentmatt/javascript-biginteger) - Arbitrarily-sized integers for JS.
 
 ### Other projects
-- [DSS](https://github.com/silentmatt/dss) - Dry Style Sheets. Think Less/Sass, but written in Java.
+- [DSS](https://github.com/silentmatt/dss) - Dynamic/Dry Style Sheets. Think Less/Sass, but written in Java.
