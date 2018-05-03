@@ -1,0 +1,8 @@
+title: Matthew's Projects
+description: My open-source projects
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
